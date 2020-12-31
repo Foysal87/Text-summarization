@@ -2,7 +2,7 @@
 
 ## Why we should choose text summarization as a research topic :confused:
 <details>
-  <summary style="color:green"> Click to expand! </summary>
+  <summary> :point_right:  Click to expand! </summary>
 From my perspective, when I started to research. I was confused, which topics I should choose? Then I started to research it.  I found so many topics in NLP, but the problem is, every topic is in a stable phase. I was worried about it. After that, I found text summarization and it was not in a stable phase. Because text summarization has no accurate answer that can measure, how much good your model. And also this was a challenging topic. I got inspiration.
 
 Another thing I found that in my country there was no better model published. So the first thing in any research is, "Is this topic already in a stable phase?". Still, text summarization is an amazing topic for research.
@@ -10,33 +10,33 @@ Another thing I found that in my country there was no better model published. So
 
 ## Now how to start this topic? :face_with_head_bandage:
 <details>
-  <summary style="color:green"> Introduction </summary>
+  <summary> :point_right:  Introduction </summary>
 In any research, first, we need to know about that topic. In this case, we will do the same thing. We will search on google about this topic. Learn What is text summarization? :laughing: . Just spend 2-3 days about it.
 
 2-3 days needed to make mindset. Now you should start reading papers about text summarization. At least you should read 10-20 papers.
 </details>
 
 <details>
-  <summary style="color:green"> How can i get papers about this topic? </summary>
+  <summary> :point_right:  How can i get papers about this topic? </summary>
   It is a basic problem, where we will find the paper. The simple answer is google scholar. Google scholar collects all the research papers from all the research and journal sites.
 
 So simply go [scholar](https://scholar.google.com)
 </details>
 
 <details>
-  <summary style="color:green"> Lots of paper were premium version, I can't access it</summary>
+  <summary> :point_right:  Lots of paper were premium version, I can't access it</summary>
  I am also depressed about it. How to access them!  After researching somedays, 
   I found an interesting ( https://sci-hub.se  )
   In this site, we can access lots of papers freely.
 </details>
 
 <details>
-  <summary style="color:green">Yes i can access it now, but which paper whould i read first?</summary>
+  <summary> :point_right: Yes i can access it now, but which paper whould i read first?</summary>
   In scholar, we can easily select the year. So first read old papers. Cause we won't understand easily recent papers.
 </details>
 
 <details>
-  <summary style="color:green">Yes i read some papers. But i can't understand anything.</summary>
+  <summary> :point_right: Yes i read some papers. But i can't understand anything.</summary>
  
   After reading these papers, you will find some new keywords. These keywords will make you depressed.
   Cause without 1 or 2 papers you won't understand what exactly these papers did. :laughing: 
@@ -45,14 +45,14 @@ So simply go [scholar](https://scholar.google.com)
 ## How can i understand text summarization paper?
 
 <details>
-  <summary style="color:green">Introduction</summary>
+  <summary> :point_right: Introduction</summary>
    I also same issue. I can't understand anything. Then i understood that i was stacked in some keywords. Maximum keywords were deep learning keywords. Then i started to learn deep learning. 
   
 </details>
 
 ### Essential Deep Learning topics for text summarization
 <details>
-  <summary style="color:green">Tokenization</summary>
+  <summary> :point_right: Tokenization</summary>
   Tokenization is a common task in Natural Language Processing (NLP). It’s a fundamental step in both traditional NLP methods like Count Vectorizer and Advanced Deep Learning-based architectures like Transformers.
 Tokenization can be performed on word, character, or subword level.
 
@@ -65,7 +65,7 @@ Because of the processing of text data. For every text related model, if we need
  </details>
 
 <details>
-  <summary style="color:green">Normalization</summary>
+  <summary> :point_right: Normalization</summary>
 When we normalize a natural language resource, we attempt to reduce the randomness in it, bringing it closer to a predefined “standard”. Thats why normalization in NLP is very important.
 Normalization has different types of techniques.
 
@@ -78,7 +78,7 @@ Normalization has different types of techniques.
 </details>
 
 <details>
-  <summary style="color:green">TF/IDF</summary>
+  <summary> :point_right: TF/IDF</summary>
 TF-IDF is a statistical measure that evaluates how relevant a word is to a document in a collection of documents.
 The full form of TF is Term Frequency (TF).The full form of IDF is Inverse Document Frequency.
 
@@ -91,7 +91,7 @@ In NLP, TF/IDF is a necessary step for information retrieval and keyword Extract
 </details>
 
 <details>
-  <summary style="color:green">Stopwords</summary>
+  <summary> :point_right: Stopwords</summary>
 Stopwords are the words in any language which does not add much meaning to a sentence. They can safely be ignored without sacrificing the meaning of the sentence.
 
 Suppose, a sentence **"Dhaka is the capital city of bangladesh"** . after removing stop words it looks like ** Dhaka capital city bangladesh** . See, it doesn't change the meaning.
@@ -122,7 +122,7 @@ we can customize it.
 
 
 <details>
-  <summary style="color:green">Jaccard Similarity</summary>
+  <summary> :point_right: Jaccard Similarity</summary>
 
 The **Jaccard index**, also known as **Intersection over Union** and **the Jaccard similarity coefficient** (originally given the French name coefficient de communauté by Paul Jaccard), is a statistic used for gauging the similarity and diversity of sample sets.
 
@@ -139,7 +139,7 @@ Finding the relation between two sentences or vectors.
 </details>
 
 <details>
-  <summary style="color:green">Cosine Similarity</summary>
+  <summary> :point_right: Cosine Similarity</summary>
 
 As like as jaccard Similarity, Cosine similarity also works for finding relation of vectors.
 Given two vectors of attributes, A and B, the cosine similarity, ![](https://latex.codecogs.com/svg.latex?cos(\theta)) , is represented using a dot product and magnitude as
@@ -152,7 +152,7 @@ where A_i and B_i are components of vector A and B respectively.
 
 
 <details>
-  <summary style="color:green">Hadamard Product</summary>
+  <summary> :point_right: Hadamard Product</summary>
 
 In mathematics, the Hadamard product (also known as the element-wise, entrywise or Schur product) is a binary operation that takes two matrices of the same dimensions and produces another matrix of the same dimension as the operands, where each element i, j is the product of elements i, j of the original two matrices.
 
@@ -162,7 +162,7 @@ In mathematics, the Hadamard product (also known as the element-wise, entrywise 
 
 
 <details>
-  <summary style="color:green">ReLU Activation Function</summary>
+  <summary> :point_right: ReLU Activation Function</summary>
 ReLU stands for rectified linear unit, and is a type of activation function. It is widely used in Activation Function.
 
 ![](img/sum26.png)
@@ -179,7 +179,7 @@ ReLU has so many version. **Leaky ReLU** is mostly used in deep learning. Instea
 
 
 <details>
-  <summary style="color:green">tanh activation function</summary>
+  <summary> :point_right: tanh activation function</summary>
 
 In sigmoid function, every value transform 0 to 1. In tanh function instead of 0 to 1, it makes -1 to 1.
 
@@ -188,7 +188,7 @@ In sigmoid function, every value transform 0 to 1. In tanh function instead of 0
 </details>
 
 <details>
-  <summary style="color:green">softmax function</summary>
+  <summary> :point_right: softmax function</summary>
 
 The softmax function squashes the outputs of each unit to be between 0 and 1, just like a sigmoid function. But it also divides each output such that the total sum of the outputs is equal to 1.
 
@@ -208,7 +208,7 @@ So softmax function is basically making the vector into the probabilistic vector
 </details>
 
 <details>
-  <summary style="color:green">Recurrent neural network (RNN)</summary>
+  <summary> :point_right: Recurrent neural network (RNN)</summary>
 
 Recurrent Neural Networks (RNNs) are widely used for data with some kind of sequential structure. For instance, time series data has an intrinsic ordering based on time. Sentences are also sequential, "I love dogs" has a different meaning than "Dogs I love." So if you are working with sequential model, RNN might be the solution for that.\\
 A simple architecture for RNN
@@ -281,7 +281,7 @@ However, there have been advancements in RNNs such as gated recurrent units (GRU
 
 
 <details>
-  <summary style="color:green">Gated Recurrent Unit(GRU)</summary>
+  <summary> :point_right: Gated Recurrent Unit(GRU)</summary>
 
 To solve the vanishing gradient problem of a standard RNN, GRU uses, so-called, update gate and reset gate. Basically, these are two vectors which decide what information should be passed to the output. The special thing about them is that they can be trained to keep information from long ago, without washing it through time or remove information which is irrelevant to the prediction.
 ![](img/sum29.png)
@@ -322,7 +322,7 @@ This is a big process, because output depends on it. We can divide it with 4 sec
 
 
 <details>
-  <summary style="color:green">LSTM</summary>
+  <summary> :point_right: LSTM</summary>
 Long Short Term Memory are a special kind of RNN, capable of learning long-term dependencies. They were introduced by Hochreiter \& Schmidhuber (1997) [20], and were refined and popularized by many people in following work. Lstm architecture is similar to GRU.
 
 ![](img/sum30.png)
@@ -362,7 +362,7 @@ We multiply the old state by ![](https://latex.codecogs.com/svg.latex?f_t), forg
 
 
 <details>
-  <summary style="color:green">Feed forward neural network</summary>
+  <summary> :point_right: Feed forward neural network</summary>
 
 Feed forward neural network is a simple one directional neural network. In RNN there a backward propagation but here only forward propagation. But in this neural network there is a lots of hidden layer for decision making. for computing hidden layer, in this network sigmoid function is used. output layer is only 1 and 0 activation function. Thats why this network is simplest neural network.
 
@@ -370,7 +370,7 @@ Feed forward neural network is a simple one directional neural network. In RNN t
 </details>
 
 <details>
-  <summary style="color:green">Bidirectional RNN (BRNN)</summary>
+  <summary> :point_right: Bidirectional RNN (BRNN)</summary>
 
 In 1997 Schuster & mike proposed bidirectional model of RNN [26].
 
@@ -396,7 +396,7 @@ to t=T).
 </details>
 
 <details>
-  <summary style="color:green">Convolution Neural Network(CNN)</summary>
+  <summary> :point_right: Convolution Neural Network(CNN)</summary>
 
 CNN was introduced by LeCun at 1998 [27]. Images recognition, images classifications. Objects detections, recognition faces etc., are some of the areas where CNNs are widely used.
 
@@ -447,7 +447,7 @@ fully connected layer like a neural network. Every node connected to others hidd
 </details>
 
 <details>
-  <summary style="color:green">Encoder-Decoder Model</summary>
+  <summary> :point_right: Encoder-Decoder Model</summary>
 
 The encoder-decoder model is composed of encoder and decoder like its name. The encoder converts an input document to a latent representation (vector), and the decoder generates a summary by using it.
 It was develop by google AI [21] and also implemeted it in the google play service. In our message section, this technique is used. So we already know what is it.
@@ -468,7 +468,7 @@ In summarization We will see how to summary a text by encoder decoder.
 
 
 <details>
-  <summary style="color:green">Attention Model</summary>
+  <summary> :point_right: Attention Model</summary>
 
 Suppose we want to translate English to bangla.
 
@@ -510,7 +510,7 @@ where,
 
 
 <details>
-  <summary style="color:green">Seq to Seq model</summary>
+  <summary> :point_right: Seq to Seq model</summary>
 
 This model is one of the famous model in NLP. Why? It can solve different types of difficult task that we can't do with other language. This model is also very fast.
 This model was introduced by google at 2014 [30]. This model also based on encoder-decoder architecture.
@@ -526,7 +526,7 @@ We can use different types model in encoder and decoder here. Like,
 
 
 <details>
-  <summary style="color:green">Transformer</summary>
+  <summary> :point_right: Transformer</summary>
 
 Transfer learning or transformer is the first transduction model relying entirely on self-attention to compute representations of its input and output without using sequence-aligned RNNs or convolution. How? why is this model much important and famous?  This model was introduced by Vaswani at 2017 in his famous paper "Attention is all you need" [37]. They used multi-head attention instead of single-head attention.
 
@@ -602,7 +602,7 @@ predictions for position i can depend only on the known outputs at positions les
 
 
 <details>
-  <summary style="color:green">Teacher Forcing</summary>
+  <summary> :point_right: Teacher Forcing</summary>
 
 Teacher forcing is a strategy for training recurrent neural networks that uses model output from a prior time step as an input. 
 Teacher forcing works by using the actual or expected output from the training dataset at the current time step y(t) as 
@@ -628,7 +628,7 @@ Lots of teacher forcing approach were invented in recent years, we can use any o
 
 
 <details>
-  <summary style="color:green">Beam Search</summary>
+  <summary> :point_right: Beam Search</summary>
 
 Let's Think about, after calculating a output vector, how we can predict correct sentence. 
 As like as Teacher forcing, If one word is incorrect, entire sequence can be incorrect. 
@@ -649,7 +649,7 @@ And we will take maximum probabilistic Sequence for our output.
 ### Keyword Extraction techniques
 
 <details>
-  <summary style="color:green">Introduction</summary>
+  <summary> :point_right: Introduction</summary>
 Keyword extraction is tasked with the automatic identification of terms that best describe the subject of a document. Key phrases, key terms, key segments or just keywords are the terminology which is used for defining the terms that represent the most relevant information contained in the document.(source wiki). If you get good keyword from text, your answer will be more accurate.
 Maximum extractive and abstractive models depend on keyword Extraction.
 
@@ -657,7 +657,7 @@ Maximum extractive and abstractive models depend on keyword Extraction.
 
 
 <details>
-  <summary style="color:green">Rules Based Keyword Extraction</summary>
+  <summary> :point_right: Rules Based Keyword Extraction</summary>
 
 Rules-based Keyword extraction basically conditional or pattern type.
 In 2008  Khoury, Richard, Fakhreddine Karray, and Mohamed S. Kamel published a paper about a rules-based model in keyword extraction using parts of speech hierarchy [1]. In this model, they describe, parts of speech have an important role in keyword extraction. They made a supervised learning model and a training corpus.
@@ -671,7 +671,7 @@ In 2008  Khoury, Richard, Fakhreddine Karray, and Mohamed S. Kamel published a p
 
 
 <details>
-  <summary style="color:green">Using support vector machine(SVM)</summary>
+  <summary> :point_right: Using support vector machine(SVM)</summary>
 
 In machine learning, support vector machines (SVMs, also support vector networks) are supervised learning models with 
 associated learning algorithms that analyze data used for classification and regression analysis.
@@ -685,7 +685,7 @@ In 2006, Zheng and khuo made a keyword extraction model using SVM [2].
 </details>
 
 <details>
-  <summary style="color:green">Rake Algorithm</summary>
+  <summary> :point_right: Rake Algorithm</summary>
 In 2010 Stuart Rose invented new techniques in keyword extraction name Rapid automatic keyword extraction(RAKE).
 It was one of the popular algorithms used in finding important keywords. In-text Summarization, this algorithm much popular in keyword extraction.
 
@@ -726,7 +726,7 @@ in the graph.
 
 
 <details>
-  <summary style="color:green">Bag of words</summary>
+  <summary> :point_right: Bag of words</summary>
 
 The bag-of-words model is a simplifying representation used in natural language processing and information retrieval (IR).
 In this model, a text (such as a sentence or a document) is represented as the bag (multiset) of its words, disregarding
@@ -759,7 +759,7 @@ In sparse matrix every cell represent, **occurence of j'th word in i'th sentence
 
 
 <details>
-  <summary style="color:green">TF-IDF</summary>
+  <summary> :point_right: TF-IDF</summary>
 
 TF-IDF value will be increased based on frequency of the word in a document. Like Bag of Words in this technique also we can not get any semantic meaning for words. \\
 But this technique is mostly used for document classification and also 
@@ -779,7 +779,7 @@ Let's consider each sentence as a document. Here also our first task is tokeniza
 
 
 <details>
-  <summary style="color:green">Word2vec</summary>
+  <summary> :point_right: Word2vec</summary>
 
 The Word2Vec model is used for learning vector representations of words called “word embeddings”. In the previous methods, there was no semantic meaning from words of corpus. 
 Word2vec model takes input as a large size of the corpus and produces output to vector space. This vector space size may be in hundred of dimensionality. Each word vector will be placed on this vector space.
@@ -796,7 +796,7 @@ Here one more thing we have to discuss that is window size. window size basicall
 </details>
 
 <details>
-  <summary style="color:green">Skip gram (word2vec p1)</summary>
+  <summary> :point_right: Skip gram (word2vec p1)</summary>
 In this method , take the center word from the window size words as an input and context words (neighbour words) as outputs. Word2vec models predict the context words of a center word using skip-gram method. Skip-gram works well with a small dataset and identifies rare words really well.
 In 2013 Mikolov first time told about this method [3].
 
@@ -818,7 +818,7 @@ According to Fig,
 </details>
 
 <details>
-  <summary style="color:green">Cbow (word2vec p2)</summary>
+  <summary> :point_right: Cbow (word2vec p2)</summary>
 The Continuous Bag-of-Words (CBOW) is another similar model for learning word vectors. It predicts the target word (i.e. “swing”) 
 from source context words (i.e., “sentence should the sword”).
 Because there are multiple contextual words, we average their corresponding word vectors, constructed 
@@ -831,7 +831,7 @@ of the distributional information, some people believe the CBOW model is better 
 
 
 <details>
-  <summary style="color:green">Loss function (word2vec p3)</summary>
+  <summary> :point_right: Loss function (word2vec p3)</summary>
 Both the skip-gram model and the CBOW model should be trained to minimize a well-designed loss/objective function. 
 There are several loss functions we can incorporate to train these language models. like,
 
@@ -844,14 +844,14 @@ There are several loss functions we can incorporate to train these language mode
 
 
 <details>
-  <summary style="color:green">Difference between CBOW and skip-gram model(word2vec p4)</summary>
+  <summary> :point_right: Difference between CBOW and skip-gram model(word2vec p4)</summary>
 
 </details>
 
 
 
 <details>
-  <summary style="color:green">Glove</summary>
+  <summary> :point_right: Glove</summary>
 GloVe stands for global vectors for word representation. It is an unsupervised learning algorithm 
 developed by Stanford for generating word embeddings by aggregating global word-word co-occurrence matrix from a corpus. 
 The resulting embeddings show interesting linear substructures of the word in vector space.
@@ -868,7 +868,7 @@ Here are some actual probabilities from a 6 billion word corpus:
 
 
 <details>
-  <summary style="color:green">Fasttext</summary>
+  <summary> :point_right: Fasttext</summary>
 
 Compared to other word embedding methods, FastText (Mikolov et al., 2016) is a new approach which can generate competitive results.[4] [5] This technique is much popular.
 
@@ -896,7 +896,7 @@ where,
 ### Sentence Embedding
 
 <details>
-  <summary style="color:green">Introduction</summary>
+  <summary> :point_right: Introduction</summary>
 
 Instead of dealing with words, we can directly work with the sentence. how? 
 Sentence embedding is the answer. Sentence embedding also makes semantic information 
@@ -919,7 +919,7 @@ There are lots of techniques in recent years. We will talk about a few of them.
 
 
 <details>
-  <summary style="color:green">Doc2vec</summary>
+  <summary> :point_right: Doc2vec</summary>
 
 An extension of Word2Vec, the Doc2Vec embedding is one of the most popular techniques out there.
 Introduced in 2014, it is an unsupervised algorithm and adds on to the Word2Vec model by introducing another ‘paragraph vector’ by T mikolov [6]. In 2015 it was improved by Andrew [7]. Also, there are 2 ways to add the paragraph vector to the model. 
@@ -928,7 +928,7 @@ one is PVDM and another PVDOBW.
 
 
 <details>
-  <summary style="color:green">PVDM(Distributed Memory version of Paragraph Vector)</summary>
+  <summary> :point_right: PVDM(Distributed Memory version of Paragraph Vector)</summary>
 
 We assign a paragraph vector sentence while sharing word vectors among all sentences. Then we either average or concatenate the (paragraph vector and words vector) to get the final sentence representation.
 If you notice, it is an extension of the Continuous Bag-of-Word type of Word2Vec where we predict the next word given a set of words. It is just that in PVDM, we predict the next sentence given a set of sentences.
@@ -936,7 +936,7 @@ If you notice, it is an extension of the Continuous Bag-of-Word type of Word2Vec
 </details>
 
 <details>
-  <summary style="color:green">PVDOBW( Distributed Bag of Words version of Paragraph Vector)</summary>
+  <summary> :point_right: PVDOBW( Distributed Bag of Words version of Paragraph Vector)</summary>
 
 PVDOBW is the extention of Skip-gram model in Word2vec. Here, we just sample random words from the sentence and make the model predict which sentence it came from(a classification task).
 
@@ -946,7 +946,7 @@ PVDM is more than enough for most tasks.But we can use both parallelly.
 </details>
 
 <details>
-  <summary style="color:green">SentenceBERT</summary>
+  <summary> :point_right: SentenceBERT</summary>
 
 Currently, the leader among the pack, SentenceBERT was introduced by Reimers in 2018 [8] 
 and immediately took the pole position for Sentence Embeddings. At the heart of this 
@@ -984,7 +984,7 @@ Now, if we want to find the similarity between these sentences with
 </details>
 
 <details>
-  <summary style="color:green">InferSent</summary>
+  <summary> :point_right: InferSent</summary>
 
 InferSent is a sentence embeddings method that provides semantic sentence representations 
 invented by A Conneau in 2017 [9]. It is trained on natural language inference data and 
@@ -1004,14 +1004,14 @@ In the author paper, four types of sentence encoder were discussed.
 
 </details>
 <details>
-  <summary style="color:green">InferSent part1: Sentence Encoder(LSTM and GRU)</summary>
+  <summary> :point_right: InferSent part1: Sentence Encoder(LSTM and GRU)</summary>
 
 First, and simplest, encoders apply recurrent neural networks using either LSTM or GRU modules, as in sequence to sequence encoders. For a sequence of T words (w1, . . . , wT ), the network computes a set of T hidden representations h1, . . . , hT , with ht = -> LSTM(w1, . . . , wT ) (or using GRU units instead). A sentence is represented by the last hidden vector, hT.
 
 </details>
 
 <details>
-  <summary style="color:green">InferSent part2: Sentence Encoder (BiLSTM with max/mean pooling)</summary>
+  <summary> :point_right: InferSent part2: Sentence Encoder (BiLSTM with max/mean pooling)</summary>
 
 It’s a bi-directional LSTM network which computes n-vectors for n-words and each vector is a 
 concatenation of output from a forward LSTM and a backward LSTM that read the sentence in 
@@ -1022,7 +1022,7 @@ form the fixed-length final vector.
 </details>
 
 <details>
-  <summary style="color:green">InferSent part3: Sentence Encoder (Self-attentive network)</summary>
+  <summary> :point_right: InferSent part3: Sentence Encoder (Self-attentive network)</summary>
 
 The self-attentive sentence encoder uses an attention mechanism over the hidden states of a BiLSTM to generate a representation u of an input sentence. The attention mechanism is defined as,
 
@@ -1045,7 +1045,7 @@ Which is a linear combination of the hidden vectors.
 </details>
 
 <details>
-  <summary style="color:green">InferSent part4: Sentence Encoder( Hierarchical ConvNet)</summary>
+  <summary> :point_right: InferSent part4: Sentence Encoder( Hierarchical ConvNet)</summary>
 
 One of the currently best performing models on classification tasks is a convolutional architecture termed AdaSent, which concatenates different representations of the sentences at a different level of abstractions. The hierarchical convolutional network introduced in the paper is inspired by that and comprise 4 convolutional layers. At every layer, max-pooling of the feature maps is done to obtain representation. The final sentence embedding is represented by a concatenation of the 4 max-pooled representations.
 
@@ -1053,7 +1053,7 @@ One of the currently best performing models on classification tasks is a convolu
 </details>
 
 <details>
-  <summary style="color:green">InferSent part5: Natural Language Inference Classifier(NLI)</summary>
+  <summary> :point_right: InferSent part5: Natural Language Inference Classifier(NLI)</summary>
 
 This section discusses the inference classifier network which takes these sentence embeddings and predicts the output label.
 
@@ -1070,7 +1070,7 @@ multiple fully connected layers followed by a softmax layer.
 </details>
 
 <details>
-  <summary style="color:green">Universal Sentence Encoder</summary>
+  <summary> :point_right: Universal Sentence Encoder</summary>
 
 One of the most well-performing sentence embedding techniques right now is the Universal 
 Sentence Encoder. And it should come as no surprise from anybody that it has been proposed by Google. The key feature here is 
@@ -1109,7 +1109,7 @@ Similarity of two vector:
 
 ### End of Pre-Requirements study
 <details>
-  <summary style="color:green">Ok i learn about these topics but can't understand how they use these?</summary>
+  <summary> :point_right: Ok i learn about these topics but can't understand how they use these?</summary>
 
 Yeah. It's really tough to understand, how they used these topics in Text summarization models. In my opinion, Maximum models used these topics as a sub-portion. So we need to read a paper sequentially and learn which portion we will do with these topics. 
 </details>
@@ -1118,7 +1118,7 @@ Yeah. It's really tough to understand, how they used these topics in Text summar
 
 
 <details>
-<summary style="color:green">Types of Text Summarization</summary>
+<summary> :point_right: Types of Text Summarization</summary>
 
 We can divide all summarization model into three categories.
 1.  Extractive Summarization 
@@ -1129,7 +1129,7 @@ We can divide all summarization model into three categories.
 
 
 <details>
-<summary style="color:green">Extractive Summarization</summary>
+<summary> :point_right: Extractive Summarization</summary>
 Extractive summarization means identifying important sections of the text and generating them verbatim producing a subset of the sentences from the original text.
 Here, content is extracted from the original data, but the extracted 
 content is not modified in any way.
@@ -1148,7 +1148,7 @@ So many Extractive summarization techniques were invented after 2004. Like,
 
 
 <details>
-<summary style="color:green">Abstractive Summarization</summary>
+<summary> :point_right: Abstractive Summarization</summary>
 
 Abstractive summarization is much advanced from extractive and also much good accuracy. It is more fluent and natural summaries.The abstractive model takes advantage of deep learning. In this time so many new models coming with high accuracy.
 
@@ -1169,7 +1169,7 @@ Many Models was invented in recent years using these techniques.
 </details>
 
 <details>
-<summary style="color:green">Extractive and Abstractive Combined Approach</summary>
+<summary> :point_right: Extractive and Abstractive Combined Approach</summary>
 
 As our data like news, articles, blogs, papers, etc increasing day by day. Also out content is much bigger than the old one. The abstractive models take lots of time in computing. The extractive models are much faster. That's why nowadays researchers make a combined way.
 
@@ -1182,7 +1182,7 @@ As our data like news, articles, blogs, papers, etc increasing day by day. Also 
 ## Text Summarization models
 
 <details>
-<summary style="color:green">Graph Base Extractive Summarization</summary>
+<summary> :point_right: Graph Base Extractive Summarization</summary>
 
 Graph Base Extractive Summarization is the oldest technique.
 In 2004, Mihalcea and Rada discussed graph base model textrank. 
@@ -1203,7 +1203,7 @@ An overall Graph bases model structure:
 
 
 <details>
-<summary style="color:green">Feature Base Extractive Summarization</summary>
+<summary> :point_right: Feature Base Extractive Summarization</summary>
 
 In Feature base Model, Sentence are ranked by some features.
 
@@ -1225,7 +1225,7 @@ ranking sentences.
 
 
 <details>
-<summary style="color:green">Topic Base Extractive Summarization</summary>
+<summary> :point_right: Topic Base Extractive Summarization</summary>
 
 The topic base model calculates the topic of the document and evaluate each sentences by what kinds of topics are 
 included (the "main" topic is highly evaluated when scoring the sentence).
@@ -1271,7 +1271,7 @@ Some of them are discussed in below paper:
 
 
 <details>
-<summary style="color:green">BSTM base Extractive Summarization</summary>
+<summary> :point_right: BSTM base Extractive Summarization</summary>
 
 BSTm means Bayesian Sentence-based Topic Models. In topic modeling of text documents, 
 the goal is to infer the words related to a certain topic and the topics discussed in a certain document, 
@@ -1306,7 +1306,7 @@ topic is represented by meaningful sentences, instead of directly by keywords.
 
 
 <details>
-<summary style="color:green">Grammar Base Extractive summarization</summary>
+<summary> :point_right: Grammar Base Extractive summarization</summary>
 
 The grammar base model parses the text and constructs a grammatical structure, then select/reorder substructures.
 In 2010, Woodsend and Kristian told in their paper how grammatical structure helps us to build summarization [18]. 
@@ -1321,7 +1321,7 @@ Last one is "the extradition of Kurdish leader Ocalan" to "Ocalan's extradition"
 
 
 <details>
-<summary style="color:green">Neural network base Extractive Summarization</summary>
+<summary> :point_right: Neural network base Extractive Summarization</summary>
 
 In 2016, Nallapati and Ramesh proposed an extractive model by Recurrent Neural Network(RNN) and named it **"SummaRuNNer"** [19]
 
@@ -1339,7 +1339,7 @@ the accumulated summary representation and other positional features
 
 
 <details>
-<summary style="color:green">Encoder Decoder Abstractive Model with RNN</summary>
+<summary> :point_right: Encoder Decoder Abstractive Model with RNN</summary>
 
 You can see the Dictionary Section, What is RNN and Encoder Decoder Model. We will now discuss Encoder Decoder Model 
 with RNN. Cho and Kyunghyun in 2014 [22] showed us, how we can encode and decode sequential context by RNN.
@@ -1355,7 +1355,7 @@ we will see them later.
 
 
 <details>
-<summary style="color:green">Abstractive Summarization with Attentive Recurrent Neural Networks</summary>
+<summary> :point_right: Abstractive Summarization with Attentive Recurrent Neural Networks</summary>
 
 This model is another modified version of Encoder decoder model with rnn. Difference between two of them is in Encoder machanism.
 This model was proposed by Alexander in 2016 [24]. In this model they used Conditional RNN.
@@ -1432,7 +1432,7 @@ Given these aggregate vectors of words, we compute the context vector ![](https:
 
 
 <details>
-<summary style="color:green">Neural Attention Model</summary>
+<summary> :point_right: Neural Attention Model</summary>
 
 Neural Attention model is the combined of **attention model and BRNN**. This model was indtoduced by Alexander at 2017 [28].
 
@@ -1465,7 +1465,7 @@ and input embedding, and Q is a smoothing window(some fixed size of matrix).
 
 
 <details>
-<summary style="color:green">Sequence-to-sequence RNNs and Beyond</summary>
+<summary> :point_right: Sequence-to-sequence RNNs and Beyond</summary>
 
 This model was introduced by Nallapati at 2016. In this model they focused on all type of seq to seq model problem. example:
 
@@ -1479,7 +1479,7 @@ Large Vocab Trick, instead of softmax over the entire vocabulary, softmax over t
 
 
 <details>
-<summary style="color:green">Summarization with Pointer-Generator Networks</summary>
+<summary> :point_right: Summarization with Pointer-Generator Networks</summary>
 
 This model is similar to Seq-to-Seq model with RNNs and beyond. This model was proposed by see at 2017 [32]. This model also reduced Seq to Seq model problems.
 
@@ -1500,7 +1500,7 @@ They used a coverage vector to overcome this problem. Coverage vector ![](https:
 
 
 <details>
-<summary style="color:green">LSTM and CNN  base abstractive model</summary>
+<summary> :point_right: LSTM and CNN  base abstractive model</summary>
 
 In 2019, Song proposed a Phrase encoder [29]. This encoder is based on Lstm-CNN. 
 This encoder takes Phrases instead of words.The phrases are composed of several
@@ -1544,7 +1544,7 @@ Bidirectional GRU or Bidirectional LSTM. Any type of RNN we can use here. We alr
 </details>
 
 <details>
-<summary style="color:green">Selective Encoding for Abstractive Sentence Summarization</summary>
+<summary> :point_right: Selective Encoding for Abstractive Sentence Summarization</summary>
 
 This model also focused on input sequence. This model was introduced by Zhou at 2017 [33]. 
 This model was extended seq to seq model by a selective gate.
@@ -1583,7 +1583,7 @@ is element-wise multiplication.
 </details>
 
 <details>
-<summary style="color:green">A Deep Reinforced Model for Abstractive Summarization</summary>
+<summary> :point_right: A Deep Reinforced Model for Abstractive Summarization</summary>
 
 This model also reduced SeqtoSeq model problems. This model was introduced by Paulus at 2017 [34].
 we can divide this model into 5 parts.
@@ -1602,7 +1602,7 @@ observation, they forced their decoder to never output the same trigram more tha
 </details>
 
 <details>
-<summary style="color:green">Fast Abstractive Summarization with Reinforce-Selected Sentence Rewriting</summary>
+<summary> :point_right: Fast Abstractive Summarization with Reinforce-Selected Sentence Rewriting</summary>
 
 Now, we will see a Extractive and abstractive combined approach. This approach was introduced by 
 Chen at 2018 [35]. 
@@ -1624,7 +1624,7 @@ After using this model we will get generated summary.
 </details>
 
 <details>
-<summary style="color:green">Query Focused Abstractive Summarization</summary>
+<summary> :point_right: Query Focused Abstractive Summarization</summary>
 
 Query focused model basically a combination of **seqtoseq model + attention model + Query Relevance** . 
 we will discuss Baumel's proposed model at 2018 [36].
@@ -1646,7 +1646,7 @@ and Word2vec encodings with cosine distance between the query and sentences.
 </details>
 
 <details>
-<summary style="color:green">Fine-tune BERT for Extractive Summarization</summary>
+<summary> :point_right: Fine-tune BERT for Extractive Summarization</summary>
 
 BERT is a pre-trained Transformer. We already know what is transformer. We will use BERT for extractive summarization. 
 This model was introduced by Liu at 2019 [38].
@@ -1670,7 +1670,7 @@ conditioned on i is odd or even. For example, for
 </details>
 
 <details>
-<summary style="color:green">Pretraining-Based Natural Language Generation for Text Summarization(Abstractive)</summary>
+<summary> :point_right: Pretraining-Based Natural Language Generation for Text Summarization(Abstractive)</summary>
 
 This model is Bi-directional pre-trained base Summarization model. It was introduced by Zhang at 2019 [39].
 
@@ -1700,20 +1700,20 @@ occurs in input document, they incorporate copy mechanism based on the Transform
 ## I understand some models now. :heart: Maybe I can create my own model.(Make a simple model)
 
 <details>
-<summary style="color:green">Why i need to make a simple model?</summary>
+<summary> :point_right: Why i need to make a simple model?</summary>
 Making a deep learning model directly is not a good practice. Besides, we should try out simple models first. Simple models mean **featured based**, **Topic-based**, **Static-based model**. Deep learning models are not easy to implement and test.  Also, we need a setup for text summarization.
 
 In my opinion, First, we should try **featured based** models and then all other extractive models.
 </details>
 
 <details>
-<summary style="color:green">Which language should i choose?</summary>
+<summary> :point_right: Which language should i choose?</summary>
 
 Python is the best choice for NLP. So many build-in models, you can find in python. If you don't know python, Learn basic python.
 </details>
 
 <details>
-<summary style="color:green">Setup for Text Summarization model</summary>
+<summary> :point_right: Setup for Text Summarization model</summary>
 
 It is a good practice to make you model as a project. In future, everyone can easily use your model. For making projects, i Used a 
 **Pycharm IDE**.
@@ -1728,18 +1728,18 @@ These three can give you GPU access. But the best choice is Local GPU. If you ca
 </details>
 
 <details>
-<summary style="color:green">My First Extractive model (Featured-based model)</summary>
+<summary> :point_right: My First Extractive model (Featured-based model)</summary>
 
 **I will give it later**
 </details>
 <details>
-<summary style="color:green">My first Abstractive model (Deep learning model)</summary>
+<summary> :point_right: My first Abstractive model (Deep learning model)</summary>
 **I will give it later**
 </details>
 
 ## How to Evaluate Text summarization model?
 
 <details>
-<summary style="color:green">Intro</summary>
+<summary> :point_right: Intro</summary>
 
 </details>
