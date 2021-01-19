@@ -1,81 +1,82 @@
 # Text-summarization
 
-## Why we should choose text summarization as a research topic :confused:
-<details>
-  <summary> :point_right:  Click to expand! </summary>
-From my perspective, when I started to research. I was confused, which topics I should choose? Then I started to research it.  I found so many topics in NLP, but the problem is, every topic is in a stable phase. I was worried about it. After that, I found text summarization and it was not in a stable phase. Because text summarization has no accurate answer that can measure, how much good your model. And also this was a challenging topic. I got inspiration.
-
-Another thing I found that in my country there was no better model published. So the first thing in any research is, "Is this topic already in a stable phase?". Still, text summarization is an amazing topic for research.
-</details>
-
-## Now how to start this topic? :face_with_head_bandage:
-<details>
-  <summary> :point_right:  Introduction </summary>
-In any research, first, we need to know about that topic. In this case, we will do the same thing. We will search on google about this topic. Learn What is text summarization? :laughing: . Just spend 2-3 days about it.
-
-2-3 days needed to make mindset. Now you should start reading papers about text summarization. At least you should read 10-20 papers.
-</details>
-
-<details>
-  <summary> :point_right:  How can i get papers about this topic? </summary>
-  It is a basic problem, where we will find the paper. The simple answer is google scholar. Google scholar collects all the research papers from all the research and journal sites.
-
-So simply go [scholar](https://scholar.google.com)
-</details>
-
-<details>
-  <summary> :point_right:  Lots of paper were premium version, I can't access it</summary>
- I am also depressed about it. How to access them!  After researching somedays, 
-  I found an interesting ( https://sci-hub.se  )
-  In this site, we can access lots of papers freely.
-</details>
-
-<details>
-  <summary> :point_right: Yes i can access it now, but which paper whould i read first?</summary>
-  In scholar, we can easily select the year. So first read old papers. Cause we won't understand easily recent papers.
-</details>
-
-<details>
-  <summary> :point_right: Yes i read some papers. But i can't understand anything.</summary>
- 
-  After reading these papers, you will find some new keywords. These keywords will make you depressed.
-  Cause without 1 or 2 papers you won't understand what exactly these papers did. :laughing: 
-</details>
-
-## How can i understand text summarization paper?
-
-<details>
-  <summary> :point_right: Introduction</summary>
-   I also same issue. I can't understand anything. Then i understood that i was stacked in some keywords. Maximum keywords were deep learning keywords. Then i started to learn deep learning. 
-  
-</details>
+## Outline
 
 ### Essential Deep Learning topics for text summarization
-<details>
-  <summary> :point_right: Tokenization</summary>
-  Tokenization is a common task in Natural Language Processing (NLP). It’s a fundamental step in both traditional NLP methods like Count Vectorizer and Advanced Deep Learning-based architectures like Transformers.
-Tokenization can be performed on word, character, or subword level.
+* tokenization
+* Normalization
+* TF/IDF
+* stopwords
+* Jaccard Similarity
+* Cosine Similarity
+* Hadamard Product
+* one hot vector
+* Sigmoid Activation Function
+* ReLU Activation Function
+* tanh activation function
+* softmax function
+* Recurrent neural network (RNN)
+* Gated Recurrent Unit(GRU)
+* LSTM
+* Feed forward neural network
+* Bidirectional RNN (BRNN)
+* Convolution Neural Network(CNN)
+* Encoder-Decoder Model
+* Attention Model
+* Seq to Seq model
+* Transformer
+* Teacher Forcing
+* Beam Search
 
-    1. word: "I live in dhaka" = I-Live-in-dhaka(4 tokens)
-    2. character: "Dhaka" = D-h-a-k-a (5 Tokens)
-    3. subword: "smarter" = smart-er(2 Tokens)
+### Keyword Extraction
+* Rules Based Keyword Extraction
+* Using support vector machine(SVM)
+* Rake Algorithm
 
-So, simply tokenization is the process of dividing word or character. But why we need token?
-Because of the processing of text data. For every text related model, if we need to run in a large corpus, we need tokenization. Tokenization makes a connection with vocabulary. So in preprocessing, the first step is tokenization.
- </details>
+### Word Embedding
+* Bag of words
+* TF-IDF
 
-<details>
-  <summary> :point_right: Normalization</summary>
-When we normalize a natural language resource, we attempt to reduce the randomness in it, bringing it closer to a predefined “standard”. Thats why normalization in NLP is very important.
-Normalization has different types of techniques.
+### Word2vec
+* Skip gram
+* Cbow
+* Loss function
+* Difference between CBOW and skip-gram model
+* Glove
+* Fasttext
 
-    1. Tokenization: We already know about "How to make tokens from input".
-    2. Stemming: This process will make every word in its root from. That means lowest form of a word. example: "Change,Changing,changer" to "chang".
-    3. lemmatization: This also same to Stemming but not always make root from.
-    4. Sentencizing: From a document it will take every sentences and remove every punctuation or symbol. Sometimes it will make everything lower form for better result. For every document we must do this process.
-    5. reference resolution: Sometimes we need to make every third person to first person form for better accuracy. Reference resolution helps it.
-![Stemming vs Lemmatization](img/sum53.png)
-</details>
+### Sentence Embedding
+* Doc2vec
+* PVDM(Distributed Memory version of Paragraph Vector)
+* PVDOBW( Distributed Bag of Words version of Paragraph Vector)
+* SentenceBERT
+* part1: Sentence Encoder(LSTM and GRU) (Infersent)
+* part2: Sentence Encoder (BiLSTM with max/mean pooling) (Infersent)
+* part3: Sentence Encoder (Self-attentive network) (Infersent)
+* part4: Sentence Encoder( Hierarchical ConvNet) (Infersent)
+* Natural Language Inference Classifier(NLI)
+* Universal Sentence Encoder
+
+### Models
+* Graph Base Extractive Summarization
+* Feature Base Extractive Summarization
+* Topic Base Extractive Summarization
+* BSTM base Extractive Summarization
+* Grammar Base Extractive summarization
+* Neural network base Extractive Summarization
+* Encoder Decoder Abstractive Model with RNN
+* Abstractive Summarization with Attentive Recurrent Neural Networks
+* Neural Attention Model
+* Sequence-to-sequence RNNs and Beyond
+* Summarization with Pointer-Generator Networks
+* LSTM and CNN base abstractive model
+* Selective Encoding for Abstractive Sentence Summarization
+* A Deep Reinforced Model for Abstractive Summarization
+* Fast Abstractive Summarization with Reinforce-Selected Sentence Rewriting
+* Query Focused Abstractive Summarization
+* Fine-tune BERT for Extractive Summarization
+* Pretraining-Based  Natural  Language  Generation for Text Summa-rization(Abstractive)
+
 
 <details>
   <summary> :point_right: TF/IDF</summary>
@@ -1696,51 +1697,3 @@ representations.
 occurs in input document, they incorporate copy mechanism based on the Transformer decoder. They use here copy gate with only two types of value [0,1].
 
 </details>
-
-## I understand some models now. :heart: Maybe I can create my own model.(Make a simple model)
-
-<details>
-<summary> :point_right: Why i need to make a simple model?</summary>
-Making a deep learning model directly is not a good practice. Besides, we should try out simple models first. Simple models mean **featured based**, **Topic-based**, **Static-based model**. Deep learning models are not easy to implement and test.  Also, we need a setup for text summarization.
-
-In my opinion, First, we should try **featured based** models and then all other extractive models.
-</details>
-
-<details>
-<summary> :point_right: Which language should i choose?</summary>
-
-Python is the best choice for NLP. So many build-in models, you can find in python. If you don't know python, Learn basic python.
-</details>
-
-<details>
-<summary> :point_right: Setup for Text Summarization model</summary>
-
-It is a good practice to make you model as a project. In future, everyone can easily use your model. For making projects, i Used a 
-**Pycharm IDE**.
-
-As you already know, so many deep learning models already in a good phase. So if we want to beat them, we also need a deep learning model.
-So for deep learning models, it will be best if you have GPU access.
-1. Local GPU (NVIDIA graphics driver)
-2. Google collab GPU or google collab pro
-3. Amazon prime
-
-These three can give you GPU access. But the best choice is Local GPU. If you can't effort Local GPU, Use google collab pro.
-</details>
-
-<details>
-<summary> :point_right: My First Extractive model (Featured-based model)</summary>
-
-**I will give it later**
-</details>
-<details>
-<summary> :point_right: My first Abstractive model (Deep learning model)</summary>
-**I will give it later**
-</details>
-
-## How to Evaluate Text summarization model?
-
-<details>
-<summary> :point_right: Intro</summary>
-
-</details>
-** we will add later**
